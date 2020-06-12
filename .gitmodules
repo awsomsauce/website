@@ -1,0 +1,3 @@
+[submodule "themes/sauce"]
+	path = themes/sauce
+	url = https://github.com/awsomsauce/hugo-theme-sauce.git
