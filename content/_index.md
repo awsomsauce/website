@@ -1,5 +1,5 @@
 ---
-title: "Sauce: a Hugo Theme"
+title: "/home"
 description: "The last theme you'll ever need. Maybe."
 ---
-Some basic content here to get started
+awsomsauce deep dives into software systems!
