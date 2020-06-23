@@ -1,5 +1,5 @@
 ---
-date: 2020-06-19
+date: 2020-06-24
 description: "An Introduction to REST API safety"
 featured_image: "https://images.unsplash.com/photo-1519575706483-221027bfbb31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80"
 tags: []
