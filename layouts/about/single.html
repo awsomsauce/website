@@ -46,18 +46,20 @@
 
     <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
       <div class="vh-100 dt w-100 tc cover bg-black">
-        <div class="mt5 tc">
-          <img src="https://raw.githubusercontent.com/awsomsauce/designs/master/bloglogo-invert.png"
-          class="dib w-80 w-30-ns">
+        <div class="mt5 tc ph3">
+          <a href="{{ .Site.Home.RelPermalink }}" alt="Home">
+            <img src="https://raw.githubusercontent.com/awsomsauce/designs/master/bloglogo-invert.png"
+            class="dib w-80 w-30-ns">
+          </a>
           <p class="lh-copy measure center f2 cabin white">Develop and Conquer</p>
-          <p class="lh-copy measure center f3 cabin white-90">
+          <p class="lh-copy center f3 cabin mw8 white-90">
             <b>awsomsauce</b> gives you insights on numerous computing technologies and systems.
             The articles will help to develop your understanding in computing domains.
             We are working on some open source projects, you can expect them in days to come.
 
           </p>
         </div>
-        <div class="flex flex-column flex-row-ns justify-around mt4">
+        <div class="flex mw8 center flex-column flex-row-ns justify-around mt4">
 
 
           <div class="flex flex-column flex-column-ns pa4 tc w-100">
