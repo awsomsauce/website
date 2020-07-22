@@ -6,7 +6,6 @@ tags: []
 title: "Are your REST APIs Safe?"
 disable_share: false
 author: "Ankit Surkar"
-featured: "true"
 ---
 _“Don’t write the complete damn code my boy just get an API that connects with our application and get your result”_, you would have heard many of your techie friends, your product architects advising you this in your product discussions.
 
