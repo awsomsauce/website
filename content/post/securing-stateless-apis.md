@@ -5,7 +5,6 @@ featured_image: "https://images.unsplash.com/photo-1585907448410-582aac876c43?ix
 tags: []
 title: "Securing Stateless REST APIs"
 disable_share: false
-featured: "true"
 ---
 In the [previous post](/post/rest-api-safety/) we had discussed elaborately about the
 different threats that a REST API can face. We had gone over what each attack means and
