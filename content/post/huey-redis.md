@@ -49,7 +49,8 @@ With the above code that can connect Huey with Redis Cluster, we just need to in
 
 ```python
 HUEY = {
-    # one may need to assign class name with relative path based on framework being used for application development
+    # one may need to assign class name with relative path based on framework
+    # being used for application development
     'huey_class': 'MyRedisHuey',
     ...
 }
