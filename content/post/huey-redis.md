@@ -56,4 +56,5 @@ HUEY = {
 }
 ```
 
-With some easy tweaks as mentioned above you can make use of a lightweight, easy to operate and easy to maintain asynchronous task manager the Huey. Do explore more about Huey and we will try to bring out more information about it in upcoming articles. Happy Coding!!!
+With some easy tweaks as mentioned above you can make use of a lightweight, easy to operate and easy to maintain asynchronous task manager the Huey.
+Happy Coding!!!
