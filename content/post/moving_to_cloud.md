@@ -1,3 +1,12 @@
+---
+date: 2021-05-24
+description: "An overview to the paradigm shift towards cloud"
+featured_image: "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+tags: []
+title: "Moving towards Cloud"
+disable_share: false
+author: "Ankit Surkar"
+---
 # Moving towards Cloud 
 ![](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 As they say "Change is the only constant", and this applies aptly to the most volatile and ever changing world of Information Technology. Only around 80 years ago Mr. Allan Turing was given an assignment of decoding the messages that flowed from the German Military Head Quarters to their troops and he developed a mechanism using a large magnetic tape systems to decode them and where are we today. Today we are surrounded only by gadgets, applications, websites all around. We start our day by opening the phone to check messages and mails in the morning and end it with some entertainment videos at night. We try to manage all our daily stuff using these applications and gadgets. In a way our lifestyle has become highly dependent on these systems. In the lockdown that dependence has again increased exponentially, as from our meetings to ordering our groceries and food everything is being managed by these applications. 
