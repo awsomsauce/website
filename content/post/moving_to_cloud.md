@@ -3,6 +3,7 @@ date: 2021-05-24
 description: "An overview to the paradigm shift towards cloud"
 featured_image: "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
 tags: []
+featured: "true"
 title: "Moving towards Cloud"
 disable_share: false
 author: "Ankit Surkar"
