@@ -5,7 +5,6 @@ featured_image: "https://images.unsplash.com/photo-1537111493080-d1bfb2e415ad?ix
 tags: []
 title: "Purpose of SECRET_KEY in Django"
 disable_share: false
-featured: "true"
 ---
 
 Have you ever wondered why Faizal from our famous cult film [Gangs of Wasseypur](https://en.wikipedia.org/wiki/Gangs_of_Wasseypur) is featured in first part of the series. His character is given no importance in the first part, but he is still there. It is the ultimate part of the series where he emerges as a HERO. Now you would be wondering why this idiot is talking about films in a technical article? This is just to introduce you to a similar character in Django applications, the `SECRET_KEY`.
